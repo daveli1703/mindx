@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+  }
+  body {
+    color: #333;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin:auto
+  }
+.box{
+    /* display: flex;
+    align-items: center;
+    flex-direction: column; */
+    margin: 30px auto;
+    width: 800px;
+}
+.h2{
+    margin-bottom: 15px;
+}
+.box img{
+    margin: 20px 0
+}
+button{
+    color: aliceblue;
+    background-color: rgb(0, 157, 255);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5%;
+}

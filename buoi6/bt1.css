@@ -1,0 +1,61 @@
+
+@media screen and (max-width: 1536px) {
+    .header{
+        font-size:  1.5rem;
+        color: green;
+    }
+    .btn{
+        font-size: 0.8rem;
+    }
+    
+}
+@media screen and (max-width: 1280px) {
+    .header{
+        font-size:  1.5rem;
+        color: purple;
+    }
+    .btn{
+        font-size: 0.8rem;
+    }
+    
+}
+@media screen and (max-width: 1024px) {
+    .header{
+        font-size:  1.5rem;
+        color: red;
+    }
+    .btn{
+        font-size: 0.8rem;
+    }
+    
+}
+@media screen and (max-width: 768px) {
+    .header{
+        font-size:  1.5rem;
+        color: black;
+    }
+    .btn{
+        font-size: 0.8rem;
+    }
+    
+}
+@media screen and (max-width: 640px) {
+    .header{
+        font-size:  1.5rem;
+        color: pink;
+    }
+    .btn{
+        font-size: 0.8rem;
+    }
+    
+}
+@media screen and (max-width: 475px) {
+    .header{
+        font-size:  1.5rem;
+        color: brown;
+    }
+    .btn{
+        font-size: 0.8rem;
+    }
+    
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: #dfeef0;
+    font-family: sans-serif;
+}
+h1{
+    font-weight: bold;
+    color: #698c8e;
+    font-family: sans-serif
+    ;
+}
+h2{
+    font-weight: bold;
+    color: #698c8e;
+    font-family: sans-serif
+}
+hr{
+    border-top: 5px dashed #4a6364
+    
+}
+img{
+    border-radius: 50%;
+}
+.Interests{
+    font-family: sans-serif;
+}
+div{
+    font-weight: bold
+}

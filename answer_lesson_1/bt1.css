@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+}
+strong{
+    color: rgb(46, 179, 231);
+}
+button{
+    color:aliceblue;
+    background-color: rgb(47, 44, 44);
+    padding: 15px 25px;
+    border-radius: 3%;
+    border: none;
+    transition: 0.3s;
+}
+button:hover{
+    background-color: rgb(46, 179, 231);
+}

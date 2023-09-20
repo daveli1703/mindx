@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+  }
+  body {
+    color: aliceblue;
+    font-family: Helvetica, sans-serif;
+    font-size: 13px;
+  }
+
+.offer{
+    text-align: center;
+    font-family: sans-serif;
+    background-image:url(../answer_lesson_1/homelander.jpg) ;
+    background-repeat: no-repeat
+}
+.offer h2{
+    margin-bottom: 20px;
+    padding-top:40px
+}
+.btn{
+    
+    padding: 15px 10px;
+    background-color: rgb(222, 71, 71);
+    color: aliceblue;
+    border: none;
+    transition: 0.3s;
+    border-radius: 5%;
+    margin-bottom: 40px;
+}
+.btn:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
